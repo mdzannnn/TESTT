@@ -1,0 +1,9 @@
+{
+  "name": "converter-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No tests yet\"",
+    "build": "echo \"Static site - no build step\""
+  }
+}
